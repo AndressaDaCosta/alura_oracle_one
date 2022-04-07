@@ -1,0 +1,30 @@
+<meta charset="UTF-8">
+
+<input/>
+<button> Qual o número pensado? </button>
+
+<script>
+
+		var segredo = Math.round(Math.random() * 10);
+		console.log(segredo);	
+		var input = document.querySelector("input");
+		input.focus();//da foco ao input//
+	
+	function verifica() { // declarar a função verifica pra que quando chamada ela vai pegar o valor de input e comparar com segredo//
+
+	 		if(input.value == segredo) {
+				alert("Você acertou!");
+    		}
+	
+			 else {
+	   			alert ("Você errou!");
+			}
+				input.value =""; // zerar o input//
+				input.focus();
+	}
+
+		var button = document.querySelector("button");
+		button.onclick = verifica;
+	 
+
+</script>

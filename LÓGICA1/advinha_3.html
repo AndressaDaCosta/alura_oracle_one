@@ -1,0 +1,85 @@
+<meta charset="UTF-8">
+
+<input/>
+<button>Compare com o meu segredo </button>
+
+<script>
+	//função sorteia é um atalho pra retornar um n° aleatório ate 10//
+	 function sorteia() {
+		return Math.round(Math.random() * 10);
+
+	}
+
+	// a função sorteiaNumeros vai sortear uma quantidade de numeros aleatórios e no final ela vai me devolver uma lista de segredos//
+	function sorteiaNumeros (quantidade) {
+		
+			var segredos = []; //quando chamada mostra uma lista vazia//
+			var numero = 1; // variavel n° xpra ajudar a saber qnts n° ja sorteei e se atingiu a quantidade máx que tem que gerar//
+		
+		while(numero <= quantidade) {
+			
+			var numeroAleatorio = sorteia();
+			var achou = false;
+
+			if (numeroAleatorio !== 0) {
+
+				 for(var posicao = 0; posicao < segredos.length; posicao++) {
+
+				   if (segredos[posicao] == numeroAleatorio) {
+					 achou = true;
+					 break;
+				    }
+			    }
+
+					
+			     if(achou == false) {
+			      segredos.push(numeroAleatorio); // a ideia é só fazer o push se não achou o segredo dentro da lista/
+			      numero++;
+				}
+			}	  
+		}  
+			return segredos; // acabou o while sobra return segredos
+		
+}
+	
+			var segredos = sorteiaNumeros(8); //esse segredos esta recebendo o valor da variavel que foi dado em return (acima)//
+			console.log (segredos);
+ 
+
+			var input = document.querySelector("input");
+			input.focus();
+	
+
+			
+ function verifica() { // declarar a função verifica pra que quando chamada ela vai pegar o valor de input e comparar com segredo//
+
+	var achou = false;
+
+	for(var posicao = 0; posicao < segredos.length; posicao++){
+
+		 if(input.value == segredos[posicao]) {
+		 alert("Você acertou!");
+		 achou = true;
+		 break;
+		}
+
+	}	
+
+	if(achou == false){
+		   alert ("Você errou!");
+	}
+		input.value =""; // zerar o input//
+		input.focus();
+}
+
+var button = document.querySelector("button");
+button.onclick = verifica;
+
+
+</script>
+
+
+
+	
+
+ 

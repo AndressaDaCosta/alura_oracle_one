@@ -1,0 +1,38 @@
+<meta charset="UTF-8">
+
+<script>
+
+		function pulaLinha () {
+			document.write("<br>" +"br>")
+		}
+
+		function mostra (frase) {
+			document.write(frase)
+			pulaLinha
+		}
+
+		var limite = 40;
+		var contagem = 30;
+
+
+
+		while(contagem <= limite) {
+
+		if(contagem == 33) {
+			contagem = contagem + 1;
+
+		}
+		
+		if(contagem ==37) {
+			contagem = contagem + 1;
+		}
+
+		else {
+			mostra(contagem);
+	  	 contagem = contagem + 1;
+		}
+
+	}
+mostra ("FIM!!!")
+
+</script>

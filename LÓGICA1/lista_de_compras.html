@@ -1,0 +1,46 @@
+
+<meta charset="UTF-8">
+
+<h1> Lista de Compras Apê 502! </h1>
+
+
+<script>
+
+	function breakLine() {
+		document.write("<br>" + "<br>");
+	}
+
+
+	function mostra(frase) {
+		document.write(frase);
+		breakLine();
+	}
+
+			var itens = [];
+
+			var quantidade = parseInt(prompt(" Informe quantos itens terá sua lista de compras: "));
+
+			var contadorItens = 1;
+	 while( contadorItens <= quantidade) {
+		var item = prompt(" Informe o item " + contadorItens);
+
+		var repeat = false;
+
+		 for ( var posicao = 0; posicao < itens.length; posicao ++){
+
+			 if ( itens[posicao] == item) {
+				 repeat = true;
+				 break;
+			}
+		} 
+
+			 if(repeat == false){
+			 itens.push(item)
+			 contadorItens++
+		 	}
+
+	}
+		mostra(itens);
+		console.log(itens);
+
+</script>
