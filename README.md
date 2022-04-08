@@ -5,7 +5,7 @@
 
 
 
-## - Gráfico de Barras:
+## 📊 Gráfico de Barras:
 
 #### Projeto desenvolvido durante a trilha de LÓGICA DE PROGRAMAÇÃO II da Alura:
 
@@ -15,6 +15,6 @@
 
 
 
-## Certificados
+## 👩🏻‍🎓 🎓 Certificados:
 
 <img src="https://raw.githubusercontent.com/AndressaDaCosta/Alura_OracleONE/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20I.png" alt="Certificado_1" width="300">
