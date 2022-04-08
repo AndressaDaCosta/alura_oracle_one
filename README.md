@@ -11,7 +11,7 @@
 
 >assunto(s): ```html``` | ```css``` | ```javascript```
 
-[📁 repositório](https://github.com/AndressaDaCosta/grafico_de_barras-Alura/tree/main/Gra%CC%81fico%20de%20Barras) |  [🌎página](https://andressadacosta.github.io/grafico_de_barras-Alura/)
+[📁 repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎página](https://andressadacosta.github.io/graficoDeBarras/)
 
 
 
