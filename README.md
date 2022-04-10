@@ -11,9 +11,18 @@
 
 >assunto(s): ```html``` | ```css``` | ```javascript```
 
-[📁 repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎página](https://andressadacosta.github.io/graficoDeBarras/)
+[📁 Repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎 Página](https://andressadacosta.github.io/graficoDeBarras/)
+# 
 
+# Rainbow 🌈
 
+#### Exercício final de LÓGICA DE PROGRAMAÇÃO II da Alura:
+
+>assunto(s): ```html``` | ```javascript```
+
+[📁 Repositório](https://github.com/AndressaDaCosta/rainbow)  | 🌎 Página: (https://andressadacosta.github.io/rainbow/)
+
+<img src="https://github.com/AndressaDaCosta/rainbow/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.54.53.png?raw=true">
 
 ## 👩🏻‍🎓 🎓 Certificados:
 
