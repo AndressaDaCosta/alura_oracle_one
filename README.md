@@ -12,7 +12,15 @@
 >assunto(s): ```html``` | ```css``` | ```javascript```
 
 [📁 Repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎 Página](https://andressadacosta.github.io/graficoDeBarras/)
-# 
+
+
+# Obras De Arte 🎨 🖼
+
+>assunto(s): ```html``` | ```javascript```
+>>
+[📁 Repositório](https://github.com/AndressaDaCosta/obrasDeArte) | [🌎 Página](https://andressadacosta.github.io/obrasDeArte/)
+
+<img src="https://github.com/AndressaDaCosta/obrasDeArte/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.57.24.png?raw=true" width="350">
 
 # Rainbow 🌈
 
@@ -20,9 +28,9 @@
 
 >assunto(s): ```html``` | ```javascript```
 
-[📁 Repositório](https://github.com/AndressaDaCosta/rainbow)  | [🌎 Página] (https://andressadacosta.github.io/rainbow/)
+[📁 Repositório](https://github.com/AndressaDaCosta/rainbow)  | [🌎 Página](https://andressadacosta.github.io/rainbow/)
 
-<img src="https://github.com/AndressaDaCosta/rainbow/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.54.53.png?raw=true">
+<img src="https://github.com/AndressaDaCosta/rainbow/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.54.53.png?raw=true" width="350">
 
 ## 👩🏻‍🎓 🎓 Certificados:
 
