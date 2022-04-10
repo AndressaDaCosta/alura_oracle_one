@@ -26,4 +26,4 @@
 
 ## 👩🏻‍🎓 🎓 Certificados:
 
-<img src="https://raw.githubusercontent.com/AndressaDaCosta/Alura_OracleONE/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20I.png" alt="Certificado_1" width="300"><img src="https://github.com/AndressaDaCosta/Alura_OracleONE/blob/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20II.png?raw=true" width="300">
+<img src="https://raw.githubusercontent.com/AndressaDaCosta/Alura_OracleONE/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20I.png" alt="Certificado_1" width="300"><img src="https://github.com/AndressaDaCosta/Alura_OracleONE/blob/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20II.png?raw=true" height="206" width="300">
