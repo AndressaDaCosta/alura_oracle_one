@@ -32,6 +32,7 @@
 
 <img src="https://github.com/AndressaDaCosta/rainbow/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.54.53.png?raw=true" width="350">
 
+
 ## 👩🏻‍🎓 🎓 Certificados:
 [Lógica I](https://cursos.alura.com.br/certificate/0b6d2d3c-4598-4d6c-837e-fc2c5e4da68d)  |  [Lógica II](https://cursos.alura.com.br/certificate/322c318a-5999-40ad-8272-a433f3da9e30)
 
