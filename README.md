@@ -9,7 +9,7 @@
 
 >assunto(s): ```html``` | ```css``` | ```javascript```
 
-[📁 Repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎 Página](https://andressadacosta.github.io/graficoDeBarras/)
+[📁 Repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎 Página](https://andressadacosta.github.io/grafico_de_barras/)
 
 
 ## Obras De Arte 🎨 🖼
