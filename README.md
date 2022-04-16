@@ -16,7 +16,7 @@
 
 >assunto(s): ```html``` | ```javascript```
 >>
-[📁 Repositório](https://github.com/AndressaDaCosta/obrasDeArte) | [🌎 Página](https://andressadacosta.github.io/obrasDeArte/)
+[📁 Repositório](https://github.com/AndressaDaCosta/obrasDeArte) | [🌎 Página](https://andressadacosta.github.io/obras_de_arte/)
 
 <img src="https://github.com/AndressaDaCosta/obrasDeArte/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.57.24.png?raw=true" width="350">
 
