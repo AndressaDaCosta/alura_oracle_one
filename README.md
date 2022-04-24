@@ -47,22 +47,26 @@ Projeto final do curso de HTML e CSS da Alura + Oracle(ONE).
 [arrow_keys](https://andressadacosta.github.io/alura_oracle_one/logica2/arrow_keys.html)  |  [bandeira_brazil](https://andressadacosta.github.io/alura_oracle_one/logica2/bandeira_brazil.html)  |  [bolao_emagreceu](https://andressadacosta.github.io/alura_oracle_one/logica2/bolao_emagreceu.html) |  [bolao_quase_explodiu](https://andressadacosta.github.io/alura_oracle_one/logica2/bolao_quase_explodiu.html)  |  [brasil_alemanha](https://andressadacosta.github.io/alura_oracle_one/logica2/brasil_alemanha.html)  |  [bolinha_bolao](https://andressadacosta.github.io/alura_oracle_one/logica2/bolinha_bolao.html)    |  [cores_paleta](https://andressadacosta.github.io/alura_oracle_one/logica2/cores_paleta.html)  |  [creeper](https://andressadacosta.github.io/alura_oracle_one/logica2/creeper.html)  |  [desenha_circulos](https://andressadacosta.github.io/alura_oracle_one/logica2/desenha_circulos.html)  |  [desenhaquadrado](https://andressadacosta.github.io/alura_oracle_one/logica2/desenhaquadrado.html)  |  [esquadro](https://andressadacosta.github.io/alura_oracle_one/logica2/esquadro.html)  |  [esquadro_2](https://andressadacosta.github.io/alura_oracle_one/logica2/esquadro_2.html)  |  [exibe_alerta](https://andressadacosta.github.io/alura_oracle_one/logica2/exibe_alerta.html)  |  [flor_circulos](https://andressadacosta.github.io/alura_oracle_one/logica2/flor_circulos.html)  |  [funcao_anonima](https://andressadacosta.github.io/alura_oracle_one/logica2/funcao_anonima.html)  |  [inputtype_color](https://andressadacosta.github.io/alura_oracle_one/logica2/inputtype_color.html)  |  [jogo_alvo](https://andressadacosta.github.io/alura_oracle_one/logica2/jogo_alvo.html)  |  [mouse_desenhando](https://andressadacosta.github.io/alura_oracle_one/logica2/mouse_desenhando.html)  |  [movendo_elementos](https://andressadacosta.github.io/alura_oracle_one/logica2/movendo_elementos.html)  |  [movendo_esquerdaedireita](https://andressadacosta.github.io/alura_oracle_one/logica2/movendo_esquerdaedireita.html)  |  [movendo_na_tela](https://andressadacosta.github.io/alura_oracle_one/logica2/movendo_na_tela.html)  |  [programa](https://andressadacosta.github.io/alura_oracle_one/logica2/programa.html)   |  [programa_2](https://andressadacosta.github.io/alura_oracle_one/logica2/programa2.html)  |  [pulsar](https://andressadacosta.github.io/alura_oracle_one/logica2/pulsar.html)  |  [saudaçao](https://andressadacosta.github.io/alura_oracle_one/logica2/saudaçao.html)  |  [target](https://andressadacosta.github.io/alura_oracle_one/logica2/target.html)  |  [troca_de_cor](https://andressadacosta.github.io/alura_oracle_one/logica2/troca_de_cor.html)
 
 
-
-
-
-
 ## Desenvolvido durante a trilha de LÓGICA DE PROGRAMAÇÃO I da Alura:
 
 >assunto(s): ```html```  | ```javascript```
 
 [📁 Repositório](https://github.com/AndressaDaCosta/alura_oracle_one/tree/main/logica1)  
 
-# 🌎 Páginas com os Resultados: 
+# 🌎 Páginas com outros Resultados: 
 
 [IMC](https://andressadacosta.github.io/alura_oracle_one/logica1/IMC.html)  | [IMC 2 ](https://andressadacosta.github.io/alura_oracle_one/logica1/IMC2.html)  |[primeiro_teste ](https://andressadacosta.github.io/alura_oracle_one/logica1/primeiro_teste.html) |  [tio_ben](https://andressadacosta.github.io/alura_oracle_one/logica1/tio_ben.html) | [texto_puro ](https://andressadacosta.github.io/alura_oracle_one/logica1/texto_puro.html) | [advinha_1 ](https://andressadacosta.github.io/alura_oracle_one/logica1/advinha_1.html) | [advinha_2 ](https://andressadacosta.github.io/alura_oracle_one/logica1/advinha_2.html) | [advinha_3_correcao](https://andressadacosta.github.io/alura_oracle_one/logica1/advinha_3correcao.html) | [ano_copa](https://andressadacosta.github.io/alura_oracle_one/logica1/ano_copa.html) | [calcula_consumo](https://andressadacosta.github.io/alura_oracle_one/logica1/calcula_consumo.html) | [estrelas](https://andressadacosta.github.io/alura_oracle_one/logica1/estrelas.html) | [exercicio](https://andressadacosta.github.io/alura_oracle_one/logica1/exer.html) | [exercicio_1](https://andressadacosta.github.io/alura_oracle_one/logica1/exer_1.html) | [exercicio_2 ](https://andressadacosta.github.io/alura_oracle_one/logica1/exer2.html)  | [exercicio_3](https://andressadacosta.github.io/alura_oracle_one/logica1/exer_3.html) | [exercicio_4 ](https://andressadacosta.github.io/alura_oracle_one/logica1/exercicio.html) | [futebol ](https://andressadacosta.github.io/alura_oracle_one/logica1/futebol.html) | [geracoes ](https://andressadacosta.github.io/alura_oracle_one/logica1/gera%C3%A7oes.html) | [geronimo ](https://andressadacosta.github.io/alura_oracle_one/logica1/geronimo.html) | [idade_irmao](https://andressadacosta.github.io/alura_oracle_one/logica1/idade_irmao.html) | [jogo_advinha ](https://andressadacosta.github.io/alura_oracle_one/logica1/jogo_advinha.html) | [lista_de_compras ](https://andressadacosta.github.io/alura_oracle_one/logica1/lista_de_compras.html) | [media_dos_eventos ](https://andressadacosta.github.io/alura_oracle_one/logica1/media_dos_eventos.html) | [media_idades_familiares ](https://andressadacosta.github.io/alura_oracle_one/logica1/media_idades_familiares.html) | [mostra_idades_2](https://andressadacosta.github.io/alura_oracle_one/logica1/mostra_idades2.html) | [pegadinha](https://andressadacosta.github.io/alura_oracle_one/logica1/pegadinha.html) | [pode_dirigir](https://andressadacosta.github.io/alura_oracle_one/logica1/pode_dirigir.html) | [programa](https://andressadacosta.github.io/alura_oracle_one/logica1/programa.html) |   [prova](https://andressadacosta.github.io/alura_oracle_one/logica1/prova.html) | [question ](https://andressadacosta.github.io/alura_oracle_one/logica1/question.html) | [receitas_yan ](https://andressadacosta.github.io/alura_oracle_one/logica1/receitas_yan.html) | [roy ](https://andressadacosta.github.io/alura_oracle_one/logica1/roy.html) |   [tabuada](https://andressadacosta.github.io/alura_oracle_one/logica1/tabuada.html) | [tabuada_2 ](https://andressadacosta.github.io/alura_oracle_one/logica1/tabuada_2for.html) | [teste_1 ](https://andressadacosta.github.io/alura_oracle_one/logica1/teste_1.html) | [teste_2](https://andressadacosta.github.io/alura_oracle_one/logica1/teste2.html) | [zero_menor](https://andressadacosta.github.io/alura_oracle_one/logica1/zeromenor=.html) 
 
 
+##  Challenge 01 - Codificador e Decodificador de Texto
 
+Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação responsivo
+
+  >assunto(s): ```html``` | ```css``` | ```javascript``` | ```design responsivo```
+
+[📁 Repositório](https://github.com/AndressaDaCosta/codificador_decodificador_texto) |  [🌎 Página](https://andressadacosta.github.io/codificador_decodificador_texto/)
+
+<img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/Captura%20de%20Tela%20Desktop.png?raw=true" width="400">
 
 
 
@@ -78,3 +82,7 @@ Projeto final do curso de HTML e CSS da Alura + Oracle(ONE).
  [HTML5 e CSS3 - 3](https://cursos.alura.com.br/certificate/ea950dd4-33bc-493f-8bcf-395ebaa9b316) | [HTML5 e CSS3 - 4](https://cursos.alura.com.br/certificate/e62f7f75-b310-4af7-b918-fbfae390fafb)
  
 <img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%203.png?raw=true" width="300"><img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%204.png?raw=true" width="300">
+
+
+### 
+Obrigado Oracle e Alura! 
