@@ -11,14 +11,26 @@
 
 [📁 Repositório](https://github.com/AndressaDaCosta/graficoDeBarras) |  [🌎 Página](https://andressadacosta.github.io/grafico_de_barras/)
 
+<img src="https://github.com/AndressaDaCosta/grafico_de_barras/blob/main/Images/Captura%20de%20Tela%202022-04-07%20a%CC%80s%2021.43.07.png?raw=true" width="350">
 
 ## Obras De Arte 🎨 🖼
 
 >assunto(s): ```html``` | ```javascript```
->>
+
 [📁 Repositório](https://github.com/AndressaDaCosta/obrasDeArte) | [🌎 Página](https://andressadacosta.github.io/obras_de_arte/)
 
 <img src="https://github.com/AndressaDaCosta/obrasDeArte/blob/main/Captura%20de%20Tela%202022-04-10%20a%CC%80s%2015.57.24.png?raw=true" width="350">
+
+
+## Site Barbearia Alura 💇🏻‍♂️ 
+
+Projeto final do curso de HTML e CSS da Alura + Oracle(ONE).
+
+ >assunto(s): ```html``` | ```css``` |
+
+[📁 Repositório](https://github.com/AndressaDaCosta/barbearia_alura) |  [🌎 Página](https://andressadacosta.github.io/barbearia_alura/index.html)
+
+<img src="https://github.com/AndressaDaCosta/barbearia_alura/raw/main/img/captura_de_tela_barbearia_alura.png" width="350">
 
 ## Rainbow 🌈
 
@@ -55,6 +67,14 @@
 
 
 ## 👩🏻‍🎓 🎓 Certificados:
-[Lógica I](https://cursos.alura.com.br/certificate/0b6d2d3c-4598-4d6c-837e-fc2c5e4da68d)  |  [Lógica II](https://cursos.alura.com.br/certificate/322c318a-5999-40ad-8272-a433f3da9e30)
+[Lógica de Programação I](https://cursos.alura.com.br/certificate/0b6d2d3c-4598-4d6c-837e-fc2c5e4da68d)  |  [Lógica de Programação II](https://cursos.alura.com.br/certificate/322c318a-5999-40ad-8272-a433f3da9e30)
 
 <img src="https://raw.githubusercontent.com/AndressaDaCosta/Alura_OracleONE/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20I.png" alt="Certificado_1" width="300"><img src="https://github.com/AndressaDaCosta/Alura_OracleONE/blob/main/Images/Certificado%20Lo%CC%81gica%20de%20Programac%CC%A7a%CC%83o%20II.png?raw=true" height="206" width="300">
+
+[HTML5 e CSS3 - 1](https://cursos.alura.com.br/certificate/faa6c3da-cf6a-4601-b7f2-b63e1d54dfc1) | [HTML5 e CSS3 - 2](https://cursos.alura.com.br/certificate/be0b0a59-5071-4827-a6d0-05762b1a62fc)
+
+<img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%201.png?raw=true" width="300"><img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%202.png?raw=true" width="300">
+
+ [HTML5 e CSS3 - 3](https://cursos.alura.com.br/certificate/ea950dd4-33bc-493f-8bcf-395ebaa9b316) | [HTML5 e CSS3 - 4](https://cursos.alura.com.br/certificate/e62f7f75-b310-4af7-b918-fbfae390fafb)
+ 
+<img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%203.png?raw=true" width="300"><img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%204.png?raw=true" width="300">
