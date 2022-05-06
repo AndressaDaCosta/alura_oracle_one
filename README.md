@@ -1,4 +1,4 @@
-# Alura + Oracle ONE 👩🏻‍💻<br><br> [<img src="https://avatars.githubusercontent.com/u/95485809?v=4" width="35" style="border-radius:50%">]("linkedin.com/in/andressa-costa-286173225/") [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndressaDaCosta/)](linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)<br>Tudo que desenvolvi no *Oracle Next Education* + Alura.
+# Alura + Oracle ONE 👩🏻‍💻  <img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br><br> [<img src="https://avatars.githubusercontent.com/u/95485809?v=4" width="35" style="border-radius:50%">]("linkedin.com/in/andressa-costa-286173225/") [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndressaDaCosta/)](linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)<br>Tudo que desenvolvi no *Oracle Next Education* + Alura.
 
  
 ### Projetos desenvolvido durante a trilha de LÓGICA DE PROGRAMAÇÃO II da Alura:
@@ -84,5 +84,4 @@ Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação res
 <img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%203.png?raw=true" width="300"><img src="https://github.com/AndressaDaCosta/alura_oracle_one/blob/main/Images/html%20css%204.png?raw=true" width="300">
 
 
-### 
-Obrigado Oracle e Alura! 
+## Obrigado <img align="center" width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png"> 
